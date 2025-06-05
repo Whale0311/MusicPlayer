@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="no_song_selected">No song selected</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="permission_required">Permission required to access music files</string>
+    <string name="loading_songs">Loading songs...</string>
+</resources>
